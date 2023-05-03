@@ -26,6 +26,7 @@ import static androidx.test.espresso.intent.matcher.IntentMatchers.hasAction;
 import static androidx.test.espresso.intent.matcher.IntentMatchers.hasData;
 import static androidx.test.espresso.matcher.ViewMatchers.*;
 
+import io.qameta.allure.android.runners.AllureAndroidJUnit4;
 import ru.kkuzmichev.simpleappforespresso.R;
 
 import org.hamcrest.Description;
@@ -41,7 +42,7 @@ import static org.hamcrest.Matchers.anything;
 import static org.hamcrest.Matchers.is;
 
 @LargeTest
-@RunWith(AndroidJUnit4.class)
+@RunWith(AllureAndroidJUnit4.class)
 public class EspressoPart2Task1 {
 
     //    @Rule

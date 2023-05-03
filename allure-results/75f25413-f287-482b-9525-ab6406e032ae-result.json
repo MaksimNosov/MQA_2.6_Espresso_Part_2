@@ -1,0 +1,53 @@
+{
+    "name": "espressoPart2Task1",
+    "start": 1683111213881,
+    "stop": 1683111216129,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "75f25413-f287-482b-9525-ab6406e032ae",
+    "historyId": "b787abf3e13ece269f5af8a5cc85a476",
+    "fullName": "ru.kkuzmichev.simpleappforespresso.EspressoPart2Task1.espressoPart2Task1",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.kkuzmichev.simpleappforespresso"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.kkuzmichev.simpleappforespresso.EspressoPart2Task1"
+        },
+        {
+            "name": "testMethod",
+            "value": "espressoPart2Task1"
+        },
+        {
+            "name": "suite",
+            "value": "ru.kkuzmichev.simpleappforespresso.EspressoPart2Task1"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(866)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
